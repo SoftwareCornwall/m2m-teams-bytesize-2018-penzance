@@ -1,4 +1,4 @@
-# Mission to Mars: ByteSize - Newquay 2018
+# Mission to Mars: ByteSize - Penzance 2018
 Code created by the participants of the Penzance outing for the Mission to Mars
 ByteSize program at Truro & Penwith College. Students were given the [community created starter files](https://github.com/tonyedwardspz/m2m-starter-files) and supported by mentors to complete
 the provided manoeuvrability challenges.
